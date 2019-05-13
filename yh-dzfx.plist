@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>cn.donghaiair.dhflydata</string>
+				<string>com.yhtefb.dhflydata</string>
 			</dict>
 		</dict>
 	</array>
